@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\obj\Debug\net6.0\Prob4.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\obj\Debug\net6.0\Prob4.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\obj\Debug\net6.0\Prob4.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\obj\Debug\net6.0\Prob4.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\obj\Debug\net6.0\Prob4.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\bin\Debug\net6.0\Prob4.exe
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\bin\Debug\net6.0\Prob4.deps.json
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\bin\Debug\net6.0\Prob4.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\bin\Debug\net6.0\Prob4.dll
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\bin\Debug\net6.0\Prob4.pdb
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\obj\Debug\net6.0\Prob4.dll
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\obj\Debug\net6.0\refint\Prob4.dll
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\obj\Debug\net6.0\Prob4.pdb
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\obj\Debug\net6.0\Prob4.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob4\obj\Debug\net6.0\ref\Prob4.dll

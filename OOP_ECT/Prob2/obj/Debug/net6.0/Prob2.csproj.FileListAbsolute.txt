@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\bin\Debug\net6.0\Prob2.exe
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\bin\Debug\net6.0\Prob2.deps.json
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\bin\Debug\net6.0\Prob2.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\bin\Debug\net6.0\Prob2.dll
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\bin\Debug\net6.0\Prob2.pdb
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\obj\Debug\net6.0\Prob2.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\obj\Debug\net6.0\Prob2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\obj\Debug\net6.0\Prob2.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\obj\Debug\net6.0\Prob2.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\obj\Debug\net6.0\Prob2.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\obj\Debug\net6.0\Prob2.dll
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\obj\Debug\net6.0\refint\Prob2.dll
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\obj\Debug\net6.0\Prob2.pdb
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\obj\Debug\net6.0\Prob2.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\OOP_ECT\Prob2\obj\Debug\net6.0\ref\Prob2.dll
